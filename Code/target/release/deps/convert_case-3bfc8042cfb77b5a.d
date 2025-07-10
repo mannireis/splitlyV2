@@ -1,0 +1,11 @@
+/home/manni/splitlyV2-code/target/release/deps/convert_case-3bfc8042cfb77b5a.d: /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/lib.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/boundary.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/case.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/converter.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/pattern.rs
+
+/home/manni/splitlyV2-code/target/release/deps/libconvert_case-3bfc8042cfb77b5a.rlib: /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/lib.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/boundary.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/case.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/converter.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/pattern.rs
+
+/home/manni/splitlyV2-code/target/release/deps/libconvert_case-3bfc8042cfb77b5a.rmeta: /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/lib.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/boundary.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/case.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/converter.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/pattern.rs
+
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/lib.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/boundary.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/case.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/converter.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.8.0/src/pattern.rs:

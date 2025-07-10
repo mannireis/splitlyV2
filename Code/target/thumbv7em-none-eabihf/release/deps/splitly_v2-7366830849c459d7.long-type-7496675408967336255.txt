@@ -1,0 +1,2 @@
+embassy_nrf::usb::vbus_detect::InterruptHandler
+embassy_nrf::usb::vbus_detect::InterruptHandler: Handler<embassy_nrf::interrupt::typelevel::USBD>

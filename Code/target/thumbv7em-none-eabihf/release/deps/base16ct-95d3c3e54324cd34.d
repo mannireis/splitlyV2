@@ -1,0 +1,12 @@
+/home/manni/splitlyV2-code/target/thumbv7em-none-eabihf/release/deps/base16ct-95d3c3e54324cd34.d: /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/lib.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/lower.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/mixed.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/upper.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/display.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/error.rs
+
+/home/manni/splitlyV2-code/target/thumbv7em-none-eabihf/release/deps/libbase16ct-95d3c3e54324cd34.rlib: /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/lib.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/lower.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/mixed.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/upper.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/display.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/error.rs
+
+/home/manni/splitlyV2-code/target/thumbv7em-none-eabihf/release/deps/libbase16ct-95d3c3e54324cd34.rmeta: /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/lib.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/lower.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/mixed.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/upper.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/display.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/error.rs
+
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/lib.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/lower.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/mixed.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/upper.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/display.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/base16ct-0.2.0/src/error.rs:

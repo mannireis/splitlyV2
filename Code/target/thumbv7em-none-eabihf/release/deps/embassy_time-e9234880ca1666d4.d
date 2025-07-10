@@ -1,0 +1,15 @@
+/home/manni/splitlyV2-code/target/thumbv7em-none-eabihf/release/deps/embassy_time-e9234880ca1666d4.d: /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/lib.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/fmt.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/delay.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/duration.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/instant.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/timer.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/../README.md
+
+/home/manni/splitlyV2-code/target/thumbv7em-none-eabihf/release/deps/libembassy_time-e9234880ca1666d4.rlib: /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/lib.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/fmt.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/delay.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/duration.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/instant.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/timer.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/../README.md
+
+/home/manni/splitlyV2-code/target/thumbv7em-none-eabihf/release/deps/libembassy_time-e9234880ca1666d4.rmeta: /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/lib.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/fmt.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/delay.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/duration.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/instant.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/timer.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/../README.md
+
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/lib.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/fmt.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/delay.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/duration.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/instant.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/timer.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/embassy-time-0.4.0/src/../README.md:
+
+# env-dep:DEFMT_LOG=debug

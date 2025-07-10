@@ -1,0 +1,6 @@
+$ mkdir -p "/home/manni/splitlyV2-code/target/thumbv7em-none-eabihf/release/build/az-4f0e367802ef78ad/out/try_track_caller"
+$ cd "/home/manni/splitlyV2-code/target/thumbv7em-none-eabihf/release/build/az-4f0e367802ef78ad/out/try_track_caller"
+$ printf '%s' "// try_tra"... > "/home/manni/splitlyV2-code/target/thumbv7em-none-eabihf/release/build/az-4f0e367802ef78ad/out/try_track_caller/try_track_caller.rs"
+$ cd "/home/manni/splitlyV2-code/target/thumbv7em-none-eabihf/release/build/az-4f0e367802ef78ad/out/try_track_caller" && "/home/manni/.rustup/toolchains/stable-aarch64-unknown-linux-gnu/bin/rustc" "try_track_caller.rs" "--emit=dep-info,metadata" >& /dev/null
+cargo:rustc-cfg=track_caller
+$ rm -r "/home/manni/splitlyV2-code/target/thumbv7em-none-eabihf/release/build/az-4f0e367802ef78ad/out/try_track_caller"

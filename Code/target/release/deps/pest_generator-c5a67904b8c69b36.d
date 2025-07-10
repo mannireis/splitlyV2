@@ -1,0 +1,11 @@
+/home/manni/splitlyV2-code/target/release/deps/pest_generator-c5a67904b8c69b36.d: /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/lib.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/macros.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/docs.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/generator.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/parse_derive.rs
+
+/home/manni/splitlyV2-code/target/release/deps/libpest_generator-c5a67904b8c69b36.rlib: /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/lib.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/macros.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/docs.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/generator.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/parse_derive.rs
+
+/home/manni/splitlyV2-code/target/release/deps/libpest_generator-c5a67904b8c69b36.rmeta: /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/lib.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/macros.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/docs.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/generator.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/parse_derive.rs
+
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/lib.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/macros.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/docs.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/generator.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pest_generator-2.8.1/src/parse_derive.rs:

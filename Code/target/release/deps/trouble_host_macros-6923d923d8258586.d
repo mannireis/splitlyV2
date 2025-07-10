@@ -1,0 +1,10 @@
+/home/manni/splitlyV2-code/target/release/deps/trouble_host_macros-6923d923d8258586.d: /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/lib.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/characteristic.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/ctxt.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/server.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/service.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/uuid.rs
+
+/home/manni/splitlyV2-code/target/release/deps/libtrouble_host_macros-6923d923d8258586.so: /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/lib.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/characteristic.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/ctxt.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/server.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/service.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/uuid.rs
+
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/lib.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/characteristic.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/ctxt.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/server.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/service.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/trouble-host-macros-0.2.0/src/uuid.rs:

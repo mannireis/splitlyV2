@@ -1,0 +1,7 @@
+MEMORY
+{
+  /* NOTE 1 K = 1 KiBi = 1024 bytes */
+  /* nRF52840 with S140 SoftDevice */
+  FLASH : ORIGIN = 0x00027000, LENGTH = 868K
+  RAM : ORIGIN = 0x20020000, LENGTH = 128K
+}

@@ -1,0 +1,11 @@
+/home/manni/splitlyV2-code/target/release/deps/semver_parser-20fcf30a33d5e711.d: /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/lib.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/version.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/range.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/common.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/recognize.rs
+
+/home/manni/splitlyV2-code/target/release/deps/libsemver_parser-20fcf30a33d5e711.rlib: /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/lib.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/version.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/range.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/common.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/recognize.rs
+
+/home/manni/splitlyV2-code/target/release/deps/libsemver_parser-20fcf30a33d5e711.rmeta: /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/lib.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/version.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/range.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/common.rs /home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/recognize.rs
+
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/lib.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/version.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/range.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/common.rs:
+/home/manni/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/semver-parser-0.7.0/src/recognize.rs:
